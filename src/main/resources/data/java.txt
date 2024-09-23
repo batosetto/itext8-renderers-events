@@ -1,0 +1,1 @@
+Java emerged in 1995 as a revolutionary language, introducing the concept of "write once, run anywhere." Its focus on portability allowed developers to create applications that ran on various platforms without modification. With a strong emphasis on security and robustness, Java quickly became the go-to choice for enterprise and mobile applications.
